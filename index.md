@@ -99,7 +99,7 @@
                         	<div class="content-details">
                             	<h3>Awesome Places In India</h3>
                                 <p>India is mysterious yet manages to be one of the most interesting destinations you will ever have visited. Some places are quirky,</p>
-                                <a href="#">Read More</a>
+                                <a href="https://guidetour.in/awesome-places-in-india/">Read More</a>
                             </div>
                         </div>
                     </div>
