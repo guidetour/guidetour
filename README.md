@@ -1,3 +1,4 @@
 # guidetour.github.io
 
-View Demo <a href="https:guidetour.github.io">guidetour.github.io</a>
+View Demo https://guidetour.github.io/
+View Demo https://guidetour.in/
