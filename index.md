@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Explore World Travel Destinations with Guide Tour</title>
+<title>Explore World Travel Destinations with Guide Tour 2</title>
 <link rel="icon" href="images/favicon-guidetour.png" type="image/x-icon" />
 <meta name="title" content="Explore World Travel Destinations with Guide Tour - Make Your Tour">
 <meta name="description" content="Explore Travel Destinations with Guidetour, Find all Indian Tourist Places and Destinations Details, Looking for the best tourist places">
